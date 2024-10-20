@@ -1,8 +1,8 @@
-Name: Abhishek Pandey
-Company: CODTECH IT SOLUTIONS
-ID: CT06DS1829
-Domain: Android Development
-Duration: August to October 2024
+Name: Abhishek Pandey                                                                                  
+Company: CODTECH IT SOLUTIONS                                      
+ID: CT06DS1829                              
+Domain: Android Development                              
+Duration: August to October 2024                                
 
 
 BMI Calculator App - Overview
